@@ -75,6 +75,7 @@ print(outputs.last_hidden_state)
 The model was pre-trained on a large-scale dataset, a.k.a., 1KP or OneKP, of RNA sequences from 1,124 plant species. 
 This database is open access at NCBI. Please find more details at [OneKP](https://db.cngb.org/onekp/)
 
+
 ![1kp.png](1kp.png)
 The taxonomy distribution of the 1KP dataset. The bar chart shows the number of species in each taxonomic group.
 
